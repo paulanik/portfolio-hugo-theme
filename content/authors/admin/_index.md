@@ -6,94 +6,87 @@ title: Anik Kumar Paul
 name_pronunciation: 
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Anik Kumar
+last_name: Paul
 
 # Status emoji
 status:
-  icon: ☕️
+  # icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Director of Cloud Infrastructure
+role: Young Professional | Data Analytics & Visualization
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: GenCoin
-    url: https://www.example.com/
+  - name: a2i
+    url: https://www.a2i.gov.bd
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:paulanik565@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+  # - icon: brands/x
+  #   url: https://twitter.com/GetResearchDev
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/paulanik
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.linkedin.com/in/paulanik/
+  # - icon: brands/instagram
+  #   url: https://www.instagram.com/
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: MSc in GIS
+    institution: Jahangirnagar University
+    date_start: 2024-02-02
+    date_end: ''
     summary: |
       GPA: 3.8/4.0
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      # Courses included:
+      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
+
+  - area: BSc in CSE
+    institution: American International University-Bangladesh (AIUB)
+    date_start: 2019-01-20
+    date_end: 2023-03-23
     summary: |
       GPA: 3.4/4.0
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      # Courses included:
+      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
+
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position: Young Professional | Data Analytics & Visualization
+    company_name: a2i
+    company_url: 'https://www.a2i.gov.bd'
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2023-11-06
     date_end: ''
     summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
+      # Responsibilities include:
+      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - position: Business Data Analyst
+    company_name: ITX Limited
+    company_url: 'https://itxlimited.com/'
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2023-07-10
+    date_end: 2024-01-02
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      # Responsibilities include:
+      # - Migrated infrastructure to a new data center
+      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
